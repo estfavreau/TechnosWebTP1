@@ -1,3 +1,14 @@
+body {
+ 	
+ 	font-size: .auto;
+    
+    margin: auto;
+    border: .1em solid #000;
+    width: 900px;
+    background-color: white;
+ }
+
+
 hr{
 	background-color: #FF4500;
 	height : 5px;
@@ -7,17 +18,17 @@ hr{
 
 h1{
 	color: #FF4500;
-	font-family: 'Corbel';
+	font-family: 'Open Sans Condensed', sans-serif;
 
  }
 
  h2{
  	color: #30CAE0;
- 	font-family: cursive;
+ 	font-family: 'Lato', sans-serif;
  }
 
  h3{
- 	font-family: cursive;
+ 	font-family: 'Lato', sans-serif;
  	color: #66CEA7;
  }
 
@@ -30,17 +41,11 @@ h1{
 
  	display: inline-block;
  	width: 30%;
+ 	border-right: : .2em solid #FF4500;
+ 	padding-right: 3em;
  }
 
- body {
- 	
- 	font-size: .auto;
-    width: 990 px;
-    margin: 20em;
-    border: .1em solid #000;
-    padding: 1em;
-    background-color: white;
- }
+ 
 
  html{
  	background-color: #DCDCDC; 
