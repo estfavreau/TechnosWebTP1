@@ -1,14 +1,52 @@
 hr{
-	background-color: red;
+	background-color: #FF4500;
 	height : 5px;
 	width: 95%;
 }
 
 
 h1{
-color: blue;
+	color: #FF4500;
+	font-family: 'Corbel';
+
  }
 
  h2{
  	color: #30CAE0;
+ 	font-family: cursive;
+ }
+
+ h3{
+ 	font-family: cursive;
+ 	color: #66CEA7;
+ }
+
+ main{
+ 	display: inline-block;
+ 	width: 60%;
+ }
+
+ aside{
+
+ 	display: inline-block;
+ 	width: 30%;
+ }
+
+ body {
+ 	
+ 	font-size: .auto;
+    width: 990 px;
+    margin: 20em;
+    border: .1em solid #000;
+    padding: 1em;
+    background-color: white;
+ }
+
+ html{
+ 	background-color: #DCDCDC; 
+ }
+
+ header{
+ 	 background-image: url(IMG.JPG);
+     
  }
